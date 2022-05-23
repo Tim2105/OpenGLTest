@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1653251476 source:c:\users\timpl\desktop\sonstiges\opengl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	"error.h"
+	"window.h"
+
+1653224123 c:\users\timpl\desktop\sonstiges\opengl\error.h
+
+1653224351 c:\users\timpl\desktop\sonstiges\opengl\input.h
+	<GLFW/glfw3.h>
+
+1653224353 source:c:\users\timpl\desktop\sonstiges\opengl\input.c
+	"input.h"
+
+1653224131 source:c:\users\timpl\desktop\sonstiges\opengl\error.c
+	"error.h"
+	<stdio.h>
+
+1653217288 c:\users\timpl\desktop\sonstiges\opengl\glad\glad.h
+	<KHR/khrplatform.h>
+
+1653225435 source:c:\users\timpl\desktop\sonstiges\opengl\glad\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1653248672 c:\users\timpl\desktop\sonstiges\opengl\window.h
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+
+1653308427 source:c:\users\timpl\desktop\sonstiges\opengl\window.c
+	<stdio.h>
+	<stdlib.h>
+	"window.h"
+
